@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="tvbienvenido">Bienvenido</string>
+    <string name="etusername">Usuario</string>
+    <string name="etpassword">Contraseña</string>
+    <string name="btlogin">Ingresar</string>
+    <string name="welcome">Bienvenido a la APP</string>
+    <string name="btlogout">CERRAR SESSION</string>
+</resources>

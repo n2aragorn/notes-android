@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Notes</string>
+    <string name="tvbienvenido">Welcome</string>
+    <string name="etusername">User</string>
+    <string name="etpassword">Password</string>
+    <string name="btlogin">Login</string>
+    <string name="welcome">Welcome to APP</string>
+    <string name="btlogout">LOGOUT</string>
+</resources>
